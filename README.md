@@ -24,8 +24,14 @@ The dataset contails order-level transaction records including: order ID, custom
 ### Data Cleaning and Transformation
 Checked for missing values, removed duplicates, standardized Text formats, ensured correct data types, flagged outliers using IQR, formatted currency columns, amd trimmed unnecessary spaces.
 ### Key Matrics
-
-### Exploratory Data Analysis (EDA)
+| Matrics | Values |
+|--- | --- |
+| Total Orders | 1200 |
+| Total Revenue | 1264761.96 |
+| Missing Coupons | 309 |
+| Total Customers | 1200 |
+| Total Products | 7 |
+### Exploratory Data Analysis 
 The analysis focused on key questions such as: 
 - Which products generated most of the revenue?
 - What are the preferred payment methods?
