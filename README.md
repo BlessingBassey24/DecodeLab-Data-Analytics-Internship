@@ -7,6 +7,7 @@
 - [Key Matrics](#key-matrics)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Business Insights](#key-business-insights)
+- [Dashboard Visuals](#dashboard-visuals)
 - [Recommendation](#recommendation)
 - [Conclusion](#conclusion)
 
@@ -50,6 +51,8 @@ Based on my observation:
 8. The total amount that was made in 2023 was 552643.24, in 2024 was 480235.87 and 231882.85 in 2025 respectfully.
 9. The average total amount that was made from the Ecommerce sale was 1053.9683
 10. The month of June, March and May experienced high sales.
+### Dashboard Visuals
+
 ### Recommendation
 Based on the analysis, my recommendation would be that there should be:
 - Increase inventory for high demand products
