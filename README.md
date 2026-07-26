@@ -52,6 +52,7 @@ Based on my observation:
 9. The average total amount that was made from the Ecommerce sale was 1053.9683
 10. The month of June, March and May experienced high sales.
 ### Dashboard Visuals
+<img width="1366" height="768" alt="Ecommerce Dashboard" src="https://github.com/user-attachments/assets/d276e8ca-0cb1-44c5-808a-d43bbeccc4a5" />
 
 ### Recommendation
 Based on the analysis, my recommendation would be that there should be:
